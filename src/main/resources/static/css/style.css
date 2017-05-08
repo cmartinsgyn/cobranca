@@ -1,0 +1,43 @@
+.navbar-static-top{
+	background-color: #00BFFF;
+}
+
+.navbar-brand {
+	padding-top: 0px;
+	padding-left: 0px;
+}
+.panel-default{
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+.alert{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.panel-default>.panel-heading{
+	background-color: #00BFFF;
+}
+
+.cms-titulo-panel{
+	float: left;
+	padding-top: 5px;
+	color: white;
+}
+.cms-link-panel{
+	float: right;
+	padding: 0px;
+	color: white;
+}
+
+.cms-panelTituloLink{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.logoCss{
+	width: 120px;
+	height: 50.4px;
+	padding-top: 0.5px;
+	padding-left: 1.2px;
+}
