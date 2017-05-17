@@ -9,7 +9,7 @@ $('#confirmacaoExclusaoModal').on('show.bs.modal', function(event){
 	//var action = form.attr('action');
 	var action = form.data('url-base');
 	if (!action.endsWith('/')){
-		action='/';
+		action +='/';
 	}
 	
 	form.attr('action', action + codigoTitulo);
